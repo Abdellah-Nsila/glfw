@@ -3,6 +3,8 @@ build
 build-*
 /bin
 /bin-int
+*bin
+*bin-int
 
 # Visual Studio clutter
 _ReSharper*
